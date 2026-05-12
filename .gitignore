@@ -1,0 +1,7 @@
+
+# CloudSentinel auth token
+.cloudsentinel_token
+./VulnerableFiles/*
+./venv
+venv
+VulnerableFiles
